@@ -124,7 +124,7 @@ st.markdown(
     <div class="hero">
         <h1>Sistema Inteligente para la Prediccion de Aprobacion de Prestamos</h1>
         <p>
-            Proyecto profesional de analitica de datos orientado a estructurar,
+            Proyecto de analitica de datos orientado a estructurar,
             explorar y presentar una solucion futura de Machine Learning.
         </p>
     </div>
