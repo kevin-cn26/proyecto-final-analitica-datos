@@ -171,7 +171,7 @@ st.markdown(
     <div class="about-hero">
         <h1>Sistema Inteligente para la Prediccion de Aprobacion de Prestamos</h1>
         <p>
-            Aplicacion profesional de analitica de datos y Machine Learning
+            Aplicacion de analitica de datos y Machine Learning
             orientada a apoyar la evaluacion de solicitudes crediticias mediante
             visualizacion, comparacion de modelos, simulacion y recomendaciones.
         </p>
