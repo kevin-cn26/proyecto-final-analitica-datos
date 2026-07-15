@@ -8,11 +8,6 @@ Construir una aplicacion interactiva para analizar solicitudes de prestamo y,
 en una fase posterior, incorporar modelos de Machine Learning que permitan
 estimar la aprobacion de una solicitud.
 
-## Estado actual
-
-Esta primera version contiene solamente la estructura profesional del proyecto,
-la navegacion multipagina y el diseno base de la interfaz.
-
 No incluye todavia:
 
 - Carga de datos
