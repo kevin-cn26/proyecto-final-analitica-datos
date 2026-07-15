@@ -1,6 +1,6 @@
 # Sistema Inteligente para la Prediccion de Aprobacion de Prestamos
 
-Proyecto profesional de analitica de datos desarrollado con Python y Streamlit.
+Proyecto de analitica de datos desarrollado con Python y Streamlit.
 
 ## Objetivo
 
@@ -8,16 +8,9 @@ Una aplicacion interactiva para analizar solicitudes de prestamo y,
 en una fase posterior, incorporar modelos de Machine Learning que permitan
 estimar la aprobacion de una solicitud.
 
-No incluye todavia:
-
-- Carga de datos
-- Limpieza o transformacion de datos
-- Entrenamiento de modelos
-- Predicciones
-- Funcionalidad de simulacion real
-
 ## Estructura del proyecto
 
+```
 Proyecto_Analitica_Datos/
 ├── app.py
 ├── pages/
