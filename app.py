@@ -154,10 +154,9 @@ with col_right:
     st.markdown(
         """
         <div class="section-box">
-            <p><strong>Fase actual:</strong> estructura inicial.</p>
+            <p><strong>Fase actual:</strong> Estructura Final.</p>
             <p class="muted">
-                La funcionalidad de datos, entrenamiento y prediccion se
-                integrara en fases posteriores.
+                Integra la funcionalidad de datos, entrenamiento y prediccion.
             </p>
         </div>
         """,
